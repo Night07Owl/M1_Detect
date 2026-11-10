@@ -125,6 +125,16 @@ pytest tests/ -v
 
 ## 6. Official Submission Table & Links
 
-The comprehensive submission table linking each deliverable to its verified evidence folder is documented in:  
-📄 **[`docs/M1_assessment_submission_links.md`](docs/M1_assessment_submission_links.md)**
+The comprehensive submission table linking each deliverable to its verified evidence folder on GitHub:
+
+| # | Deliverable Title | Live GitHub URL | Status |
+| :-: | :--- | :--- | :--- |
+| **1** | **Camera and Repository** | [https://github.com/Night07Owl/M1_Detect/tree/main/01_camera_and_repo](https://github.com/Night07Owl/M1_Detect/tree/main/01_camera_and_repo) | **COMPLETE** |
+| **2** | **OpenCV Pipeline** | [https://github.com/Night07Owl/M1_Detect/tree/main/02_opencv_pipeline](https://github.com/Night07Owl/M1_Detect/tree/main/02_opencv_pipeline) | **COMPLETE** |
+| **3** | **Baseline Speed** | [https://github.com/Night07Owl/M1_Detect/tree/main/03_baseline_speed](https://github.com/Night07Owl/M1_Detect/tree/main/03_baseline_speed) | **COMPLETE** |
+| **4** | **Dataset V1** | [https://github.com/Night07Owl/M1_Detect/tree/main/04_dataset_v1](https://github.com/Night07Owl/M1_Detect/tree/main/04_dataset_v1) | **PENDING DATA** |
+| **5** | **Correct Split** | [https://github.com/Night07Owl/M1_Detect/tree/main/05_correct_split](https://github.com/Night07Owl/M1_Detect/tree/main/05_correct_split) | **PENDING DATA** |
+| **6** | **Train and Run Detector** | [https://github.com/Night07Owl/M1_Detect/tree/main/06_train_and_run_detector](https://github.com/Night07Owl/M1_Detect/tree/main/06_train_and_run_detector) | **PENDING TRAINING** |
+
+📄 Detailed assessment report: **[`docs/M1_assessment_submission_links.md`](docs/M1_assessment_submission_links.md)**
 
