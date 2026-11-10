@@ -91,3 +91,4 @@ class SystemMonitor:
                 pynvml.nvmlShutdown()
             except Exception:
                 pass
+

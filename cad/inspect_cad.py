@@ -121,3 +121,4 @@ if __name__ == "__main__":
     with open(os.path.join(analysis_dir, "cad_geometry_summary.json"), "w") as out:
         json.dump({"stl": stl_res, "step": step_res}, out, indent=2)
     print(f"\nSaved analysis to {os.path.join(analysis_dir, 'cad_geometry_summary.json')}")
+

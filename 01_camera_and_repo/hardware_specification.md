@@ -11,3 +11,4 @@
 | **GPU Driver** | NVIDIA 617.42 (CUDA Driver Version 13.4, WDDM) |
 | **Thermal Status** | GPU Idle Temp: 43°C, Power Draw: 17W |
 | **Camera Sensor** | Sonix Integrated Camera (`USB\VID_3277&PID_0010&MI_00\7&DF5034D&0&0000`) |
+

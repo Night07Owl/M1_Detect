@@ -45,3 +45,4 @@ def test_detector_inference():
     dummy = np.zeros((720, 1280, 3), dtype=np.uint8)
     res = det.detect(dummy)
     assert isinstance(res, list)
+

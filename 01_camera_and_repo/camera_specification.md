@@ -11,3 +11,4 @@
 **Average Frame Latency:** 50.39 ms  
 **Latency 95th Percentile:** 63.81 ms  
 **Disconnection Handling:** Graceful exception recovery on invalid index (`cap.isOpened() == False`)
+

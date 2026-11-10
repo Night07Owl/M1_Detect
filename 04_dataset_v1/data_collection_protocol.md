@@ -27,3 +27,4 @@ Detailed guidance for capturing genuine photographs of the Rhino Motion RMCS-610
 - The physical unit must be fully assembled (lid + base together).
 - Do NOT annotate internal circuits.
 - Do NOT use 3D CAD screenshots or renders as training photos.
+

@@ -174,3 +174,4 @@ class EnclosureDetector:
                 })
                 
         return detections
+

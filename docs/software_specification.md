@@ -49,3 +49,4 @@
 - **Version Control System:** Git 2.56.0
 - **Repository Branch:** `main`
 - **Exclusion Management:** Comprehensive `.gitignore` protecting virtual environments, bytecode, training runs, and bulky intermediate checkpoint weights.
+

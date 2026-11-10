@@ -75,3 +75,4 @@ The official assessment instructions mention developing two 3D models from the C
 > In this repository, the primary CAD reference contains three internal bodies (`top`, `bottom`, `component`), and our object detection scope is strictly defined as the single assembled enclosure (`enclosure`).  
 > We do **not** claim that the separate `top` and `bottom` bodies automatically satisfy the requirement for "two developed 3D models" without explicit lecturer guidance.  
 > To maintain academic integrity, no fictitious secondary CAD model has been invented. This item is formally flagged for confirmation with the module lecturer.
+

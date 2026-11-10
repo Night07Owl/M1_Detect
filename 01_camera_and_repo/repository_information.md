@@ -14,3 +14,4 @@
 
 ## Integrity Policy
 No synthetic camera captures or fabricated links are committed. All deliverables reflect physical hardware executions.
+

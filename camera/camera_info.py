@@ -110,3 +110,4 @@ if __name__ == "__main__":
     with open(out_file, "w") as f:
         json.dump(spec, f, indent=2)
     print(f"\n[+] Camera specifications successfully recorded to: {out_file}")
+

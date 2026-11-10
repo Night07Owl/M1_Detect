@@ -61,3 +61,4 @@
 - **Workspace Path:** `C:\Users\Sudhiksha\Downloads\Edge AI - Assignment 1`
 - **Drive Type:** NVMe High-Speed Solid-State Drive (SSD)
 - **Dataset Read/Write Throughput:** Low-latency batch disk access for frame writing and model weight loading.
+

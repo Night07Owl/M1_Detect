@@ -62,3 +62,4 @@ Automated validation is executed via `dataset/validate_dataset.py`:
 > [!IMPORTANT]
 > **Status: PENDING PHYSICAL IMAGE ACQUISITION**  
 > The annotation infrastructure, schema, and automated verification tools are fully implemented and verified. The user must capture photographs of their physical RMCS-610 controller using `camera/camera_capture.py` or a mobile device, place them into `dataset/images/`, and execute `python dataset/annotate_dataset.py`.
+

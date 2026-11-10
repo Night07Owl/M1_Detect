@@ -69,3 +69,4 @@ To re-run the benchmark on the host machine and collect updated empirical teleme
 ```powershell
 python benchmark/run_benchmark.py --duration 15 --width 1280 --height 720
 ```
+

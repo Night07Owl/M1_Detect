@@ -17,3 +17,4 @@ def test_leakage_audit_pending_or_passed():
     # In pending or populated state, leakage must be False
     assert rep["leakage_detected"] is False
     assert rep["status"] in ["PASSED", "PENDING_DATA"]
+

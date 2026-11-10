@@ -141,3 +141,4 @@ if __name__ == "__main__":
     with open(os.path.join(out_dir, "camera_test_report.json"), "w") as f:
         json.dump(report, f, indent=2)
     print(f"\n[+] Full test report saved to: {os.path.join(out_dir, 'camera_test_report.json')}")
+

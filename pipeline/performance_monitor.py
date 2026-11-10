@@ -62,3 +62,4 @@ class PerformanceMonitor:
             "avg_total_latency_ms": round(float(self.get_avg_total_latency()), 2),
             "p95_total_latency_ms": round(float(np.percentile(self.total_latencies, 95)), 2) if self.total_latencies else 0.0
         }
+

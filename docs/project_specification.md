@@ -77,3 +77,4 @@ In compliance with the assignment instructions:
 1. Every measurement, frame, and benchmark reported must originate from actual execution.
 2. If physical hardware or user-collected dataset photographs are pending, the status is explicitly documented as `PENDING HARDWARE` or `PENDING DATA`.
 3. The requirement for "Two developed 3D models" is documented as requiring lecturer clarification, rather than artificially separating CAD components.
+

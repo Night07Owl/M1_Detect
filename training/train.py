@@ -95,3 +95,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     run_training(epochs=args.epochs, batch=args.batch, imgsz=args.imgsz,
                  weights=args.weights, device=args.device)
+

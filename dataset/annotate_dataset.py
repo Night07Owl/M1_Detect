@@ -155,3 +155,4 @@ class InteractiveAnnotator:
 if __name__ == "__main__":
     annotator = InteractiveAnnotator()
     annotator.run()
+

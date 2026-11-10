@@ -50,3 +50,4 @@ The real-time OpenCV pipeline provides a deterministic, low-latency video proces
   - Detected Enclosures Count (`Enclosures: N`)
   - Target Object Identifier (`Rhino Motion RMCS-610`)
   - User Control Hotkeys (`[Q] Quit`, `[S] Save Snapshot`)
+

@@ -27,3 +27,4 @@ def test_detector_backend_loading():
     det = EnclosureDetector(model_path="models/enclosure_detector_base.onnx")
     assert det.is_loaded() is True
     assert det.backend in ["onnxruntime", "opencv_dnn"]
+

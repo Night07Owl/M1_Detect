@@ -37,3 +37,4 @@ Physical Camera (DirectShow / UVC)
 ## 3. Error Handling and Edge Cases
 - **Device Disconnection:** Detects `ret is False` or empty frame buffer and terminates without crashing.
 - **Resource Cleanup:** Guaranteed camera hardware release in `finally:` block.
+

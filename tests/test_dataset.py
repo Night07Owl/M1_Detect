@@ -26,3 +26,4 @@ def test_degenerate_box_rejection():
     # Inverted or zero box
     yolo = convert_to_yolo([100, 100, 100, 100], 1000, 500, class_id=0)
     assert yolo is None
+

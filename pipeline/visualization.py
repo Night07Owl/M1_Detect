@@ -96,3 +96,4 @@ def draw_detections(frame, detections):
         cv2.putText(frame, caption, (px1 + 5, py2 - 5), font, font_scale, (0, 0, 0), thickness, cv2.LINE_AA)
         
     return frame
+

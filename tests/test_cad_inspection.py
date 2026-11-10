@@ -44,3 +44,4 @@ def test_step_parsing(cad_paths):
     assert c_dims["x_length_mm"] == pytest.approx(81.5, rel=1e-2)
     assert c_dims["y_width_mm"] == pytest.approx(73.7, rel=1e-2)
     assert c_dims["z_height_mm"] == pytest.approx(18.0, rel=1e-2)
+

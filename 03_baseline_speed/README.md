@@ -35,3 +35,4 @@
 ```powershell
 python benchmark/run_benchmark.py --duration 15 --width 1280 --height 720
 ```
+

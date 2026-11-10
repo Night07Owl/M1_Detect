@@ -15,3 +15,4 @@ def test_system_monitor_snapshot():
     assert "process_ram_mb" in snap
     assert "gpu_name" in snap
     assert isinstance(snap["process_ram_mb"], float)
+

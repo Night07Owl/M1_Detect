@@ -37,3 +37,4 @@ python camera/camera_capture.py --output 01_camera_and_repo/first_frame.jpg
 # Optional: Run live interactive camera preview
 python camera/camera_capture.py --interactive
 ```
+

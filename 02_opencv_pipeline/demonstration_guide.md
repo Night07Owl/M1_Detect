@@ -36,3 +36,4 @@ python pipeline/opencv_pipeline.py --mode B --model models/enclosure_yolo.onnx -
 ## 3. Interactive Keybindings
 - **`q` or `ESC`:** Terminate the application cleanly and release the camera sensor.
 - **`s`:** Save an instantaneous high-resolution annotated screenshot to disk.
+

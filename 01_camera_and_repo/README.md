@@ -30,3 +30,4 @@
 - **Operational Resolution:** $1280 \times 720$ pixels (HD)
 - **Measured Capture Latency:** $50.39\text{ ms}$ (empirical frame rate: $19.84\text{ FPS}$)
 - **Frame Validation:** Valid 3-channel BGR matrix, non-zero pixel density.
+

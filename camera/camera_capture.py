@@ -136,3 +136,4 @@ if __name__ == "__main__":
         save_path = os.path.join(root_dir, args.output)
         frame, (w, h) = capture_first_frame(cam_index=args.index, width=args.width, height=args.height, save_path=save_path)
         print(f"[SUCCESS] Acquired genuine frame of shape {frame.shape} at {w}x{h}")
+

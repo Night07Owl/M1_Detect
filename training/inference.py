@@ -103,3 +103,4 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     run_inference(model_path=args.model, source=args.source, conf_thres=args.conf, save_dir=args.save_dir)
+

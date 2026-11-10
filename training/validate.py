@@ -61,3 +61,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     res = run_validation(model_path=args.model)
     print(json.dumps(res, indent=2))
+
