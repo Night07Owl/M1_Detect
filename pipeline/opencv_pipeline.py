@@ -123,8 +123,10 @@ def run_pipeline(mode="A", model_path=None, cam_index=0, width=1280, height=720,
                     break
                 elif key == ord('s'):
                     snap_path = f"snapshot_mode_{mode.lower()}_{int(time.time())}.jpg"
+                    evidence_path = os.path.join("02_opencv_pipeline", f"mode_{mode.lower()}_pipeline.jpg")
                     cv2.imwrite(snap_path, display_frame)
-                    print(f"[+] Snapshot saved: {snap_path}")
+                    cv2.imwrite(evidence_path, display_frame)
+                    print(f"[+] Snapshot saved: {snap_path} and {evidence_path}")
                     
             frame_idx += 1
             if max_frames and frame_idx >= max_frames:
